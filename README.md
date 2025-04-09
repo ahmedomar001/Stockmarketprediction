@@ -1,1 +1,1 @@
-# Stocknarketprediction
+# Stockmarketprediction
